@@ -8,68 +8,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 781515865,
+        "HashCode": -1629315394,
         "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.Index",
+        "Name": "MyBlazorAppForWeek4.App",
         "AssemblyName": "MyBlazorAppForWeek4",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Index"
+          "Common.TypeName": "MyBlazorAppForWeek4.App"
         }
       },
       {
-        "HashCode": 696815877,
+        "HashCode": 1831022631,
         "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.Index",
+        "Name": "MyBlazorAppForWeek4.App",
         "AssemblyName": "MyBlazorAppForWeek4",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MyBlazorAppForWeek4.Pages.Index"
+            "TagName": "MyBlazorAppForWeek4.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 627405520,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.Counter",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 1466059230,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.Counter",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyBlazorAppForWeek4.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Counter",
+          "Common.TypeName": "MyBlazorAppForWeek4.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -107,35 +74,101 @@
         }
       },
       {
-        "HashCode": -1629315394,
+        "HashCode": 627405520,
         "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.App",
+        "Name": "MyBlazorAppForWeek4.Pages.Counter",
         "AssemblyName": "MyBlazorAppForWeek4",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.App"
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Counter"
         }
       },
       {
-        "HashCode": 1831022631,
+        "HashCode": 1466059230,
         "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.App",
+        "Name": "MyBlazorAppForWeek4.Pages.Counter",
         "AssemblyName": "MyBlazorAppForWeek4",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MyBlazorAppForWeek4.App"
+            "TagName": "MyBlazorAppForWeek4.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.App",
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 781515865,
+        "Kind": "Components.Component",
+        "Name": "MyBlazorAppForWeek4.Pages.Index",
+        "AssemblyName": "MyBlazorAppForWeek4",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 696815877,
+        "Kind": "Components.Component",
+        "Name": "MyBlazorAppForWeek4.Pages.Index",
+        "AssemblyName": "MyBlazorAppForWeek4",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyBlazorAppForWeek4.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1542272738,
+        "Kind": "Components.Component",
+        "Name": "MyBlazorAppForWeek4.Shared.NavMenu",
+        "AssemblyName": "MyBlazorAppForWeek4",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyBlazorAppForWeek4.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1579917173,
+        "Kind": "Components.Component",
+        "Name": "MyBlazorAppForWeek4.Shared.NavMenu",
+        "AssemblyName": "MyBlazorAppForWeek4",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyBlazorAppForWeek4.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyBlazorAppForWeek4.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -232,92 +265,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "MyBlazorAppForWeek4.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1542272738,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Shared.NavMenu",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 1579917173,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Shared.NavMenu",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyBlazorAppForWeek4.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1006699416,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Shared.SurveyPrompt",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1297769644,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Shared.SurveyPrompt",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyBlazorAppForWeek4.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -11809,11 +11756,6 @@
     {
       "FilePath": "c:\\Users\\Bruger\\Dropbox\\Uddannelse\\Blazor\\MyBlazorAppForWeek4\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Bruger\\Dropbox\\Uddannelse\\Blazor\\MyBlazorAppForWeek4\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
       "FileKind": "component"
     },
     {
