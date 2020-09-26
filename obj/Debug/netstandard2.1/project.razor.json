@@ -41,35 +41,121 @@
         }
       },
       {
-        "HashCode": 1542272738,
+        "HashCode": -1865395196,
         "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Shared.NavMenu",
+        "Name": "MyBlazorAppForWeek4.Pages.Counter",
         "AssemblyName": "MyBlazorAppForWeek4",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Shared.NavMenu"
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Counter"
         }
       },
       {
-        "HashCode": 1579917173,
+        "HashCode": 344589000,
         "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Shared.NavMenu",
+        "Name": "MyBlazorAppForWeek4.Pages.Counter",
         "AssemblyName": "MyBlazorAppForWeek4",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MyBlazorAppForWeek4.Shared.NavMenu"
+            "TagName": "MyBlazorAppForWeek4.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Shared.NavMenu",
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1699386121,
+        "Kind": "Components.Component",
+        "Name": "MyBlazorAppForWeek4.Pages.FetchData",
+        "AssemblyName": "MyBlazorAppForWeek4",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 311750312,
+        "Kind": "Components.Component",
+        "Name": "MyBlazorAppForWeek4.Pages.FetchData",
+        "AssemblyName": "MyBlazorAppForWeek4",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyBlazorAppForWeek4.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 781515865,
+        "Kind": "Components.Component",
+        "Name": "MyBlazorAppForWeek4.Pages.Index",
+        "AssemblyName": "MyBlazorAppForWeek4",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 696815877,
+        "Kind": "Components.Component",
+        "Name": "MyBlazorAppForWeek4.Pages.Index",
+        "AssemblyName": "MyBlazorAppForWeek4",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MyBlazorAppForWeek4.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -170,121 +256,35 @@
         }
       },
       {
-        "HashCode": 781515865,
+        "HashCode": 1542272738,
         "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.Index",
+        "Name": "MyBlazorAppForWeek4.Shared.NavMenu",
         "AssemblyName": "MyBlazorAppForWeek4",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Index"
+          "Common.TypeName": "MyBlazorAppForWeek4.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 696815877,
+        "HashCode": 1579917173,
         "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.Index",
+        "Name": "MyBlazorAppForWeek4.Shared.NavMenu",
         "AssemblyName": "MyBlazorAppForWeek4",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MyBlazorAppForWeek4.Pages.Index"
+            "TagName": "MyBlazorAppForWeek4.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1865395196,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.Counter",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 344589000,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.Counter",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyBlazorAppForWeek4.Pages.Counter"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IncrementAmount",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "IncrementAmount"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1699386121,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.FetchData",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 311750312,
-        "Kind": "Components.Component",
-        "Name": "MyBlazorAppForWeek4.Pages.FetchData",
-        "AssemblyName": "MyBlazorAppForWeek4",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MyBlazorAppForWeek4.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "MyBlazorAppForWeek4.Pages.FetchData",
+          "Common.TypeName": "MyBlazorAppForWeek4.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
